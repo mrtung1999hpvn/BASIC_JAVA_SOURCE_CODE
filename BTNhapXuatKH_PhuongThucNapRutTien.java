@@ -1,7 +1,16 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+Xây dựng lớp Account quản lý thông tin khách hàng.
+Các thuộc tính:
+	- Mã số tài khoản
+	- Tên tài khoản
+	- Số dư tài khoản
+Các phương thức:
+	- khởi tạo, get, set
+	- Phương thức nạp tiền: số dư = số dư + tiền nạp
+	- Phương thức rút tiền: số dư = số dư - tiền rút
+	- Phương thức nhập thông tin
+	- Phương thức xuất thông tin
+Xây dựng lớp thực hiện các yêu cầu trên, với tiền nạp, tiền rút nhập vào từ bàn phím
  */
 package javaapplication9;
 
